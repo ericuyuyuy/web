@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin-right: 20%;
+    margin-left: 20%;
+    border-width: 2px;
+    border-style: solid ;
+    border-color: black; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    border-bottom-width: 1px ;
+    border-bottom-color: brown  ;
+}
+
+img{
+    border-radius: 50%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkgray;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#header {
+    background-color: black;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+}
+#list {
+    border-width: 1px;
+    border-style: solid;
+    border: rgb(0, 0, 0);
+    padding: 15px;
+    margin-left: 35%;
+}
+#navlinks {
+    position: fixed;
+}
